@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ege Kalkışım</h1>
-<h3 align="center">I am trying to improve myself in the fields of CTFs and Cyber Security.</h3>
+<h3 align="center">I'm trying to improve myself in the fields of CTFs and Cyber Security.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/kalkisimege) 
 
