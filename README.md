@@ -1,7 +1,6 @@
 ### Hi there 👋, My name is Ege Kalkışım
 I am trying to improve myself in the fields of CTFs and Cyber Security.
 
-
 My PicoCTF account : https://play.picoctf.org/users/ulanege
 
 Skills: Python/Linux
