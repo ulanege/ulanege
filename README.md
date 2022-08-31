@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ege Kalkışım</h1>
 <h3 align="center">I am trying to improve myself in the fields of CTFs and Cyber Security.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalkisimege" alt="kalkisimege" /></a> </p>
+![Profile views](https://gpvc.arturio.dev/kalkisimege) 
 
 <p align="left"> <a href="https://twitter.com/kalkisimege" target="blank"><img src="https://img.shields.io/twitter/follow/kalkisimege?logo=twitter&style=for-the-badge" alt="kalkisimege" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go/Bash**
 
-- My PicoCTF account [https://play.picoctf.org/users/ulanege](https://play.picoctf.org/users/ulanege)
+- 👨‍💻My PicoCTF account [https://play.picoctf.org/users/ulanege](https://play.picoctf.org/users/ulanege)
 
 - 👨‍💻 All of my projects are available at [kalkisimege.github.io](kalkisimege.github.io)
 
