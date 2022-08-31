@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Go/Bash**
 
-- 👨‍💻My PicoCTF account [https://play.picoctf.org/users/ulanege](https://play.picoctf.org/users/ulanege)
-
 - 👨‍💻 All of my projects are available at [kalkisimege.github.io](kalkisimege.github.io)
 
 - 📄 Know about my experiences [https://play.picoctf.org/users/ulanege](https://play.picoctf.org/users/ulanege)
