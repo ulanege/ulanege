@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://play.picoctf.org/users/ulanege" target="blank"><img align="center" style="color: white;" src="img/picoctf1.png" alt="ulanege" height="25" width="25" /></a>
-<a href="https://t.me/ulanege" target="blank"><img align="center" style="color: white;" src="telegram-app.svg" alt="ulanege" height="30" width="40" /></a>
+<a href="https://t.me/ulanege" target="blank"><img align="center" style="color: white;" src="img/telegram-app.svg" alt="ulanege" height="30" width="40" /></a>
 <a href="https://twitter.com/kalkisimege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalkisimege" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19639244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19639244" height="30" width="40" /></a>
 <a href="https://medium.com/@kalkisimege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kalkisimege" height="30" width="40" /></a>
