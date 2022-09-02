@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [kalkisimege.github.io](https://kalkisimege.github.io)
 
-- 📄 Know about my experiences [https://play.picoctf.org/users/ulanege](https://play.picoctf.org/users/ulanege)
+- 📄 Know about my experiences [picoctf.org/ulanege](https://play.picoctf.org/users/ulanege)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
