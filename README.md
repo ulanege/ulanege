@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/kalkisimege" target="blank"><img src="https://img.shields.io/twitter/follow/kalkisimege?logo=twitter&style=for-the-badge" alt="kalkisimege" /></a> </p>
 
-- 🔭 I’m currently working on [https://kalkisimege.github.io](kalkisimege.github.io)
+- 🔭 I’m currently working on [kalkisimege.github.io](https://kalkisimege.github.io)
 
 - 🌱 I’m currently learning **Go/Bash**
 
-- 👨‍💻 All of my projects are available at [https://kalkisimege.github.io](kalkisimege.github.io)
+- 👨‍💻 All of my projects are available at [kalkisimege.github.io](https://kalkisimege.github.io)
 
 - 📄 Know about my experiences [https://play.picoctf.org/users/ulanege](https://play.picoctf.org/users/ulanege)
 
