@@ -26,6 +26,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/kalkisimege) 
 
-<img src="https://github-readme-stats.vercel.app/api/toplangs/username=kalkisimege&exclude_repo=tddroid&hide=html,css,gofile&langs_count=10&layout=compact&theme=dark"></img>
-
 ![Ege's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalkisimege&theme=github_dark&show_icons=true)
