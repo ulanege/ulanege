@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/kalkisimege" target="blank"><img src="https://img.shields.io/twitter/follow/kalkisimege?logo=twitter&style=for-the-badge" alt="kalkisimege" /></a> </p>
 
-- 🔭 I’m currently working on [kalkisimege.github.io](https://ulanege.github.io)
+- 🔭 I’m currently working on [ulanege.tech](-)
 
-- 🌱 I’m currently learning **Go/Bash**
+- 🌱 I’m currently learning **Js**
 
-- 👨‍💻 All of my projects are available at [kalkisimege.github.io](https://kalkisimege.github.io)
+- 👨‍💻 All of my projects are available at [ulanege.tech](ulanege.tech)
 
-- 📄 Know about my experiences [kalkisimege.medium.com](https://kalkisimege.medium.com)
+- 📄 Know about my experiences -
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
